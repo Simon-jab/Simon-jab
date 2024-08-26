@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I will start university for materialsciences in october and want to learn coding and developing to assist the research i will be doing. So I am always looking for MatSci, chemesty or physics related projects to contribute to. You can reach me per e-mail: simonjabczinski@icloud.com
+
 <!--
 **Simon-jab/Simon-jab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
